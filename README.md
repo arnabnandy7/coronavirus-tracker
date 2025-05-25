@@ -1,1 +1,3 @@
-<!-- GitAds-Verify: 65OF9LSN1BJIOI5Y28OPI2MDRKKHSUPW -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/coronavirus-tracker@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/coronavirus-tracker@github)
+
